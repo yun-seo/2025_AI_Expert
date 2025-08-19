@@ -1,0 +1,3 @@
+[submodule "rapidsai-csp-utils"]
+	path = rapidsai-csp-utils
+	url = https://github.com/rapidsai/rapidsai-csp-utils.git
