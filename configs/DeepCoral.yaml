@@ -2,12 +2,12 @@
 backbone: resnet50
 
 # Transfer loss related
-transfer_loss_weight: 10.0
+transfer_loss_weight: 1.0
 transfer_loss: coral
 
 # Optimizer related
-lr: 3e-3
-weight_decay: 5e-4
+lr: 0.003
+weight_decay: 0.0005
 lr_scheduler: True
 lr_gamma: 0.0003
 lr_decay: 0.75
