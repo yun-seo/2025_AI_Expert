@@ -2,7 +2,7 @@
 backbone: resnet50
 
 # Transfer loss related
-transfer_loss_weight: 1.0
+transfer_loss_weight: 2.0
 transfer_loss: adv
 
 # Optimizer related
